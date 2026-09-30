@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Food_Delivery\bin\Debug\net10.0\Food_Delivery.exe
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Food_Delivery\bin\Debug\net10.0\Food_Delivery.deps.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Food_Delivery\bin\Debug\net10.0\Food_Delivery.runtimeconfig.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Food_Delivery\bin\Debug\net10.0\Food_Delivery.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Food_Delivery\bin\Debug\net10.0\Food_Delivery.pdb
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Food_Delivery\obj\Debug\net10.0\Food_Delivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Food_Delivery\obj\Debug\net10.0\Food_Delivery.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Food_Delivery\obj\Debug\net10.0\Food_Delivery.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Food_Delivery\obj\Debug\net10.0\Food_Delivery.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Food_Delivery\obj\Debug\net10.0\Food_Delivery.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Food_Delivery\obj\Debug\net10.0\refint\Food_Delivery.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Food_Delivery\obj\Debug\net10.0\Food_Delivery.pdb
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Food_Delivery\obj\Debug\net10.0\Food_Delivery.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Food_Delivery\obj\Debug\net10.0\ref\Food_Delivery.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Food_Delivery\obj\Debug\net10.0\Food_Del.44C2B85B.Up2Date

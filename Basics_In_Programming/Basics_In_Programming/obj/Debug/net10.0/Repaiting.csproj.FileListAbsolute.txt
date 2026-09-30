@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Basics_In_Programming\bin\Debug\net10.0\Repaiting.exe
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Basics_In_Programming\bin\Debug\net10.0\Repaiting.deps.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Basics_In_Programming\bin\Debug\net10.0\Repaiting.runtimeconfig.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Basics_In_Programming\bin\Debug\net10.0\Repaiting.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Basics_In_Programming\bin\Debug\net10.0\Repaiting.pdb
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Basics_In_Programming\obj\Debug\net10.0\Repaiting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Basics_In_Programming\obj\Debug\net10.0\Repaiting.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Basics_In_Programming\obj\Debug\net10.0\Repaiting.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Basics_In_Programming\obj\Debug\net10.0\Repaiting.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Basics_In_Programming\obj\Debug\net10.0\Repaiting.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Basics_In_Programming\obj\Debug\net10.0\refint\Repaiting.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Basics_In_Programming\obj\Debug\net10.0\Repaiting.pdb
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Basics_In_Programming\obj\Debug\net10.0\Repaiting.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Basics_In_Programming\obj\Debug\net10.0\ref\Repaiting.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Basics_In_Programming\obj\Debug\net10.0\Repaiting.csproj.Up2Date

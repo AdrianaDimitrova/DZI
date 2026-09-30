@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Aquarium/Aquarium.csproj" />
+  <Project Path="Basics_In_Programming/Repaiting.csproj" />
+  <Project Path="Basketball_Equipment/Basketball_Equipment.csproj" />
+  <Project Path="Food_Delivery/Food_Delivery.csproj" />
+</Solution>

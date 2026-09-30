@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Basketball_Equipment\bin\Debug\net10.0\Basketball_Equipment.exe
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Basketball_Equipment\bin\Debug\net10.0\Basketball_Equipment.deps.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Basketball_Equipment\bin\Debug\net10.0\Basketball_Equipment.runtimeconfig.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Basketball_Equipment\bin\Debug\net10.0\Basketball_Equipment.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Basketball_Equipment\bin\Debug\net10.0\Basketball_Equipment.pdb
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Basketball_Equipment\obj\Debug\net10.0\Basketball_Equipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Basketball_Equipment\obj\Debug\net10.0\Basketball_Equipment.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Basketball_Equipment\obj\Debug\net10.0\Basketball_Equipment.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Basketball_Equipment\obj\Debug\net10.0\Basketball_Equipment.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Basketball_Equipment\obj\Debug\net10.0\Basketball_Equipment.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Basketball_Equipment\obj\Debug\net10.0\refint\Basketball_Equipment.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Basketball_Equipment\obj\Debug\net10.0\Basketball_Equipment.pdb
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Basketball_Equipment\obj\Debug\net10.0\Basketball_Equipment.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Basketball_Equipment\obj\Debug\net10.0\ref\Basketball_Equipment.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Basketball_Equipment\obj\Debug\net10.0\Basketba.F43B536B.Up2Date

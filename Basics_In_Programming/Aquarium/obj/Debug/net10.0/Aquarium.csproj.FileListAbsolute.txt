@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Aquarium\bin\Debug\net10.0\Aquarium.exe
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Aquarium\bin\Debug\net10.0\Aquarium.deps.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Aquarium\bin\Debug\net10.0\Aquarium.runtimeconfig.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Aquarium\bin\Debug\net10.0\Aquarium.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Aquarium\bin\Debug\net10.0\Aquarium.pdb
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Aquarium\obj\Debug\net10.0\Aquarium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Aquarium\obj\Debug\net10.0\Aquarium.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Aquarium\obj\Debug\net10.0\Aquarium.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Aquarium\obj\Debug\net10.0\Aquarium.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Aquarium\obj\Debug\net10.0\Aquarium.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Aquarium\obj\Debug\net10.0\refint\Aquarium.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Aquarium\obj\Debug\net10.0\Aquarium.pdb
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Aquarium\obj\Debug\net10.0\Aquarium.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Aquarium\obj\Debug\net10.0\ref\Aquarium.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Basics_In_Programming\Aquarium\obj\Debug\net10.0\Aquarium.csproj.Up2Date
