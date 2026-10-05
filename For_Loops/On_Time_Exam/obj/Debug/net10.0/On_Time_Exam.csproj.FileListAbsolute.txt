@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\On_Time_Exam\bin\Debug\net10.0\On_Time_Exam.exe
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\On_Time_Exam\bin\Debug\net10.0\On_Time_Exam.deps.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\On_Time_Exam\bin\Debug\net10.0\On_Time_Exam.runtimeconfig.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\On_Time_Exam\bin\Debug\net10.0\On_Time_Exam.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\On_Time_Exam\bin\Debug\net10.0\On_Time_Exam.pdb
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\On_Time_Exam\obj\Debug\net10.0\On_Time_Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\On_Time_Exam\obj\Debug\net10.0\On_Time_Exam.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\On_Time_Exam\obj\Debug\net10.0\On_Time_Exam.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\On_Time_Exam\obj\Debug\net10.0\On_Time_Exam.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\On_Time_Exam\obj\Debug\net10.0\On_Time_Exam.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\On_Time_Exam\obj\Debug\net10.0\refint\On_Time_Exam.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\On_Time_Exam\obj\Debug\net10.0\On_Time_Exam.pdb
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\On_Time_Exam\obj\Debug\net10.0\On_Time_Exam.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\On_Time_Exam\obj\Debug\net10.0\ref\On_Time_Exam.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\On_Time_Exam\obj\Debug\net10.0\On_Time_.B3C8A2D4.Up2Date

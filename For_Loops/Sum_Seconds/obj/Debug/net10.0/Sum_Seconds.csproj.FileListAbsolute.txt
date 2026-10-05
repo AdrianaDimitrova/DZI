@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Sum_Seconds\bin\Debug\net10.0\Sum_Seconds.exe
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Sum_Seconds\bin\Debug\net10.0\Sum_Seconds.deps.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Sum_Seconds\bin\Debug\net10.0\Sum_Seconds.runtimeconfig.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Sum_Seconds\bin\Debug\net10.0\Sum_Seconds.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Sum_Seconds\bin\Debug\net10.0\Sum_Seconds.pdb
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Sum_Seconds\obj\Debug\net10.0\Sum_Seconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Sum_Seconds\obj\Debug\net10.0\Sum_Seconds.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Sum_Seconds\obj\Debug\net10.0\Sum_Seconds.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Sum_Seconds\obj\Debug\net10.0\Sum_Seconds.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Sum_Seconds\obj\Debug\net10.0\Sum_Seconds.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Sum_Seconds\obj\Debug\net10.0\refint\Sum_Seconds.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Sum_Seconds\obj\Debug\net10.0\Sum_Seconds.pdb
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Sum_Seconds\obj\Debug\net10.0\Sum_Seconds.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Sum_Seconds\obj\Debug\net10.0\ref\Sum_Seconds.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Sum_Seconds\obj\Debug\net10.0\Sum_Seco.1108400C.Up2Date

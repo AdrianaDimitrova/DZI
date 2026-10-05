@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Speed\bin\Debug\net10.0\Speed.exe
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Speed\bin\Debug\net10.0\Speed.deps.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Speed\bin\Debug\net10.0\Speed.runtimeconfig.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Speed\bin\Debug\net10.0\Speed.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Speed\bin\Debug\net10.0\Speed.pdb
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Speed\obj\Debug\net10.0\Speed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Speed\obj\Debug\net10.0\Speed.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Speed\obj\Debug\net10.0\Speed.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Speed\obj\Debug\net10.0\Speed.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Speed\obj\Debug\net10.0\Speed.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Speed\obj\Debug\net10.0\refint\Speed.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Speed\obj\Debug\net10.0\Speed.pdb
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Speed\obj\Debug\net10.0\Speed.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Speed\obj\Debug\net10.0\ref\Speed.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Speed\obj\Debug\net10.0\Speed.csproj.Up2Date

@@ -1,0 +1,14 @@
+<Solution>
+  <Project Path="Afternoon_Break/Afternoon_Break.csproj" />
+  <Project Path="Bonus_Points/Bonus_Points.csproj" />
+  <Project Path="Figures_Areas/Figures_Areas.csproj" />
+  <Project Path="Godzila_KingKong/Godzila_KingKong.csproj" />
+  <Project Path="On_Time_Exam/On_Time_Exam.csproj" />
+  <Project Path="Shopping/Shopping.csproj" />
+  <Project Path="Speed/Speed.csproj" />
+  <Project Path="Sum_Seconds/Sum_Seconds.csproj" />
+  <Project Path="Swimming_Record/Swimming_Record.csproj" />
+  <Project Path="Time/Time.csproj" />
+  <Project Path="Time_15_Minutes/Time_15_Minutes.csproj" />
+  <Project Path="Toys_Shop/Toys_Shop.csproj" />
+</Solution>

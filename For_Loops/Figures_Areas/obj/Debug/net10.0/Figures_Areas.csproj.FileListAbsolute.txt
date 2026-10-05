@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Figures_Areas\bin\Debug\net10.0\Figures_Areas.exe
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Figures_Areas\bin\Debug\net10.0\Figures_Areas.deps.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Figures_Areas\bin\Debug\net10.0\Figures_Areas.runtimeconfig.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Figures_Areas\bin\Debug\net10.0\Figures_Areas.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Figures_Areas\bin\Debug\net10.0\Figures_Areas.pdb
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Figures_Areas\obj\Debug\net10.0\Figures_Areas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Figures_Areas\obj\Debug\net10.0\Figures_Areas.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Figures_Areas\obj\Debug\net10.0\Figures_Areas.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Figures_Areas\obj\Debug\net10.0\Figures_Areas.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Figures_Areas\obj\Debug\net10.0\Figures_Areas.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Figures_Areas\obj\Debug\net10.0\refint\Figures_Areas.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Figures_Areas\obj\Debug\net10.0\Figures_Areas.pdb
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Figures_Areas\obj\Debug\net10.0\Figures_Areas.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Figures_Areas\obj\Debug\net10.0\ref\Figures_Areas.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Figures_Areas\obj\Debug\net10.0\Figures_.242E7A58.Up2Date

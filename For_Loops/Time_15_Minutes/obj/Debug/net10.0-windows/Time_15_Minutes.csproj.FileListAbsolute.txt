@@ -1,0 +1,17 @@
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Time_15_Minutes\bin\Debug\net10.0-windows\Time_15_Minutes.exe
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Time_15_Minutes\bin\Debug\net10.0-windows\Time_15_Minutes.deps.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Time_15_Minutes\bin\Debug\net10.0-windows\Time_15_Minutes.runtimeconfig.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Time_15_Minutes\bin\Debug\net10.0-windows\Time_15_Minutes.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Time_15_Minutes\bin\Debug\net10.0-windows\Time_15_Minutes.pdb
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Time_15_Minutes\obj\Debug\net10.0-windows\Time_15_Minutes.Form1.resources
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Time_15_Minutes\obj\Debug\net10.0-windows\Time_15_Minutes.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Time_15_Minutes\obj\Debug\net10.0-windows\Time_15_Minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Time_15_Minutes\obj\Debug\net10.0-windows\Time_15_Minutes.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Time_15_Minutes\obj\Debug\net10.0-windows\Time_15_Minutes.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Time_15_Minutes\obj\Debug\net10.0-windows\Time_15_Minutes.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Time_15_Minutes\obj\Debug\net10.0-windows\Time_15_Minutes.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Time_15_Minutes\obj\Debug\net10.0-windows\refint\Time_15_Minutes.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Time_15_Minutes\obj\Debug\net10.0-windows\Time_15_Minutes.pdb
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Time_15_Minutes\obj\Debug\net10.0-windows\Time_15_Minutes.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Time_15_Minutes\obj\Debug\net10.0-windows\ref\Time_15_Minutes.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Time_15_Minutes\obj\Debug\net10.0-windows\Time_15_.BB2C4874.Up2Date

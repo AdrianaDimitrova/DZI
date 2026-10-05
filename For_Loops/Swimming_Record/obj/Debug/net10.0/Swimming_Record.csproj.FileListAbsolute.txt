@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Swimming_Record\bin\Debug\net10.0\Swimming_Record.exe
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Swimming_Record\bin\Debug\net10.0\Swimming_Record.deps.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Swimming_Record\bin\Debug\net10.0\Swimming_Record.runtimeconfig.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Swimming_Record\bin\Debug\net10.0\Swimming_Record.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Swimming_Record\bin\Debug\net10.0\Swimming_Record.pdb
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Swimming_Record\obj\Debug\net10.0\Swimming_Record.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Swimming_Record\obj\Debug\net10.0\Swimming_Record.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Swimming_Record\obj\Debug\net10.0\Swimming_Record.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Swimming_Record\obj\Debug\net10.0\Swimming_Record.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Swimming_Record\obj\Debug\net10.0\Swimming_Record.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Swimming_Record\obj\Debug\net10.0\refint\Swimming_Record.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Swimming_Record\obj\Debug\net10.0\Swimming_Record.pdb
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Swimming_Record\obj\Debug\net10.0\Swimming_Record.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Swimming_Record\obj\Debug\net10.0\ref\Swimming_Record.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\For_Loops\Swimming_Record\obj\Debug\net10.0\Swimming.00ED5593.Up2Date
