@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Boat/Boat.csproj" />
+  <Project Path="Hotel_Room/Hotel_Room.csproj" />
+  <Project Path="Scholarship/Scholarship.csproj" />
+  <Project Path="Ski_Holiday/Ski_Holiday.csproj" />
+  <Project Path="Travelling/Travelling.csproj" />
+</Solution>

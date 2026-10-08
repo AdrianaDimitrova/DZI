@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\\u0414\u0417\u0418\\Advanced_Loops\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF009F1-5E91-4970-A62A-2BAFEADF5B61}|Hotel_Room\\Hotel_Room.csproj|c:\\users\\lenovo\\desktop\\reponew\\\u0434\u0437\u0438\\advanced_loops\\hotel_room\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF009F1-5E91-4970-A62A-2BAFEADF5B61}|Hotel_Room\\Hotel_Room.csproj|solutionrelative:hotel_room\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC3B8B9-BE50-4D54-ADDC-7F57F4DA468F}|Travelling\\Travelling.csproj|c:\\users\\lenovo\\desktop\\reponew\\\u0434\u0437\u0438\\advanced_loops\\travelling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CC3B8B9-BE50-4D54-ADDC-7F57F4DA468F}|Travelling\\Travelling.csproj|solutionrelative:travelling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637833DC-2D82-4EF1-A75E-C5844DB1FFE3}|Boat\\Boat.csproj|c:\\users\\lenovo\\desktop\\reponew\\\u0434\u0437\u0438\\advanced_loops\\boat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637833DC-2D82-4EF1-A75E-C5844DB1FFE3}|Boat\\Boat.csproj|solutionrelative:boat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{457371E7-670D-4DF4-90CC-70AE420224F1}|Scholarship\\Scholarship.csproj|c:\\users\\lenovo\\desktop\\reponew\\\u0434\u0437\u0438\\advanced_loops\\scholarship\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{457371E7-670D-4DF4-90CC-70AE420224F1}|Scholarship\\Scholarship.csproj|solutionrelative:scholarship\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB5BE88-A5C8-4659-8910-6AE2D8B12C31}|Ski_Holiday\\Ski_Holiday.csproj|c:\\users\\lenovo\\desktop\\reponew\\\u0434\u0437\u0438\\advanced_loops\\ski_holiday\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB5BE88-A5C8-4659-8910-6AE2D8B12C31}|Ski_Holiday\\Ski_Holiday.csproj|solutionrelative:ski_holiday\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\\u0414\u0417\u0418\\Advanced_Loops\\Hotel_Room\\Program.cs",
+              "RelativeDocumentMoniker": "Hotel_Room\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\\u0414\u0417\u0418\\Advanced_Loops\\Hotel_Room\\Program.cs",
+              "RelativeToolTip": "Hotel_Room\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T14:11:56.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\\u0414\u0417\u0418\\Advanced_Loops\\Travelling\\Program.cs",
+              "RelativeDocumentMoniker": "Travelling\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\\u0414\u0417\u0418\\Advanced_Loops\\Travelling\\Program.cs",
+              "RelativeToolTip": "Travelling\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T13:39:16.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\\u0414\u0417\u0418\\Advanced_Loops\\Boat\\Program.cs",
+              "RelativeDocumentMoniker": "Boat\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\\u0414\u0417\u0418\\Advanced_Loops\\Boat\\Program.cs",
+              "RelativeToolTip": "Boat\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T13:23:30.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\\u0414\u0417\u0418\\Advanced_Loops\\Scholarship\\Program.cs",
+              "RelativeDocumentMoniker": "Scholarship\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\\u0414\u0417\u0418\\Advanced_Loops\\Scholarship\\Program.cs",
+              "RelativeToolTip": "Scholarship\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T17:57:17.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\\u0414\u0417\u0418\\Advanced_Loops\\Ski_Holiday\\Program.cs",
+              "RelativeDocumentMoniker": "Ski_Holiday\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\\u0414\u0417\u0418\\Advanced_Loops\\Ski_Holiday\\Program.cs",
+              "RelativeToolTip": "Ski_Holiday\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T17:30:54.538Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

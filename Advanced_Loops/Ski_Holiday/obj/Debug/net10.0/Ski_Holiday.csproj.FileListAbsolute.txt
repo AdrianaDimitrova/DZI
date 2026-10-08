@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Advanced_Loops\Ski_Holiday\bin\Debug\net10.0\Ski_Holiday.exe
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Advanced_Loops\Ski_Holiday\bin\Debug\net10.0\Ski_Holiday.deps.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Advanced_Loops\Ski_Holiday\bin\Debug\net10.0\Ski_Holiday.runtimeconfig.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Advanced_Loops\Ski_Holiday\bin\Debug\net10.0\Ski_Holiday.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Advanced_Loops\Ski_Holiday\bin\Debug\net10.0\Ski_Holiday.pdb
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Advanced_Loops\Ski_Holiday\obj\Debug\net10.0\Ski_Holiday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Advanced_Loops\Ski_Holiday\obj\Debug\net10.0\Ski_Holiday.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Advanced_Loops\Ski_Holiday\obj\Debug\net10.0\Ski_Holiday.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Advanced_Loops\Ski_Holiday\obj\Debug\net10.0\Ski_Holiday.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Advanced_Loops\Ski_Holiday\obj\Debug\net10.0\Ski_Holiday.sourcelink.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Advanced_Loops\Ski_Holiday\obj\Debug\net10.0\Ski_Holiday.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Advanced_Loops\Ski_Holiday\obj\Debug\net10.0\refint\Ski_Holiday.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Advanced_Loops\Ski_Holiday\obj\Debug\net10.0\Ski_Holiday.pdb
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Advanced_Loops\Ski_Holiday\obj\Debug\net10.0\Ski_Holiday.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Advanced_Loops\Ski_Holiday\obj\Debug\net10.0\ref\Ski_Holiday.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Advanced_Loops\Ski_Holiday\obj\Debug\net10.0\Ski_Holi.ABC3F3BA.Up2Date

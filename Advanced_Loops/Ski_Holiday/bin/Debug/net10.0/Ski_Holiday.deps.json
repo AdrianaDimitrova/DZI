@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Ski_Holiday/1.0.0": {
+        "runtime": {
+          "Ski_Holiday.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ski_Holiday/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
