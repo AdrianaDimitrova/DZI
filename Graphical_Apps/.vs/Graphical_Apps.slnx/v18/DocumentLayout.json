@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\\u0414\u0417\u0418\\Graphical_Apps\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FEE3963-E1B3-425A-A0AD-CDBF309AB8AC}|Convertor3\\Convertor3.csproj|c:\\users\\lenovo\\desktop\\reponew\\\u0434\u0437\u0438\\graphical_apps\\convertor3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9FEE3963-E1B3-425A-A0AD-CDBF309AB8AC}|Convertor3\\Convertor3.csproj|solutionrelative:convertor3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FEE3963-E1B3-425A-A0AD-CDBF309AB8AC}|Convertor3\\Convertor3.csproj|c:\\users\\lenovo\\desktop\\reponew\\\u0434\u0437\u0438\\graphical_apps\\convertor3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FEE3963-E1B3-425A-A0AD-CDBF309AB8AC}|Convertor3\\Convertor3.csproj|solutionrelative:convertor3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\\u0414\u0417\u0418\\Graphical_Apps\\Convertor3\\Form1.cs",
+              "RelativeDocumentMoniker": "Convertor3\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\\u0414\u0417\u0418\\Graphical_Apps\\Convertor3\\Form1.cs",
+              "RelativeToolTip": "Convertor3\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T13:55:26.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\\u0414\u0417\u0418\\Graphical_Apps\\Convertor3\\Form1.cs",
+              "RelativeDocumentMoniker": "Convertor3\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\\u0414\u0417\u0418\\Graphical_Apps\\Convertor3\\Form1.cs [Design]",
+              "RelativeToolTip": "Convertor3\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T13:52:52.91Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

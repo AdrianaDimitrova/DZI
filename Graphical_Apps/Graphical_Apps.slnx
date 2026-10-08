@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Convertor/Convertor.csproj" />
+  <Project Path="Convertor3/Convertor3.csproj" />
+  <Project Path="Multi_Convertor/Multi_Convertor.csproj" />
+  <Project Path="Numbe_Sumer/Numbe_Sumer.csproj" />
+</Solution>
