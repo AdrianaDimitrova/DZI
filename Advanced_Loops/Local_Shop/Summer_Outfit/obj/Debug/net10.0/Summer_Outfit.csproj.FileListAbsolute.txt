@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Local_Shop\Summer_Outfit\bin\Debug\net10.0\Summer_Outfit.exe
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Local_Shop\Summer_Outfit\bin\Debug\net10.0\Summer_Outfit.deps.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Local_Shop\Summer_Outfit\bin\Debug\net10.0\Summer_Outfit.runtimeconfig.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Local_Shop\Summer_Outfit\bin\Debug\net10.0\Summer_Outfit.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Local_Shop\Summer_Outfit\bin\Debug\net10.0\Summer_Outfit.pdb
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Local_Shop\Summer_Outfit\obj\Debug\net10.0\Summer_Outfit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Local_Shop\Summer_Outfit\obj\Debug\net10.0\Summer_Outfit.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Local_Shop\Summer_Outfit\obj\Debug\net10.0\Summer_Outfit.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Local_Shop\Summer_Outfit\obj\Debug\net10.0\Summer_Outfit.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Local_Shop\Summer_Outfit\obj\Debug\net10.0\Summer_Outfit.sourcelink.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Local_Shop\Summer_Outfit\obj\Debug\net10.0\Summer_Outfit.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Local_Shop\Summer_Outfit\obj\Debug\net10.0\refint\Summer_Outfit.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Local_Shop\Summer_Outfit\obj\Debug\net10.0\Summer_Outfit.pdb
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Local_Shop\Summer_Outfit\obj\Debug\net10.0\Summer_Outfit.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Local_Shop\Summer_Outfit\obj\Debug\net10.0\ref\Summer_Outfit.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Local_Shop\Summer_Outfit\obj\Debug\net10.0\Summer_O.7B013DC9.Up2Date

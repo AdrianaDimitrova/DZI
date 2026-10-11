@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Local_Shop\New_Home\bin\Debug\net10.0\New_Home.exe
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Local_Shop\New_Home\bin\Debug\net10.0\New_Home.deps.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Local_Shop\New_Home\bin\Debug\net10.0\New_Home.runtimeconfig.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Local_Shop\New_Home\bin\Debug\net10.0\New_Home.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Local_Shop\New_Home\bin\Debug\net10.0\New_Home.pdb
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Local_Shop\New_Home\obj\Debug\net10.0\New_Home.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Local_Shop\New_Home\obj\Debug\net10.0\New_Home.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Local_Shop\New_Home\obj\Debug\net10.0\New_Home.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Local_Shop\New_Home\obj\Debug\net10.0\New_Home.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Local_Shop\New_Home\obj\Debug\net10.0\New_Home.sourcelink.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Local_Shop\New_Home\obj\Debug\net10.0\New_Home.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Local_Shop\New_Home\obj\Debug\net10.0\refint\New_Home.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Local_Shop\New_Home\obj\Debug\net10.0\New_Home.pdb
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Local_Shop\New_Home\obj\Debug\net10.0\New_Home.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Local_Shop\New_Home\obj\Debug\net10.0\ref\New_Home.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Local_Shop\New_Home\obj\Debug\net10.0\New_Home.csproj.Up2Date

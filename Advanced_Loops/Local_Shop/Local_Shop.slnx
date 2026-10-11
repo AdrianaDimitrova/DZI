@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="Exam_Time/Exam_Time.csproj" />
+  <Project Path="Fruit_Shop/Trade.csproj" />
+  <Project Path="Local_Shop/Local_Shop.csproj" />
+  <Project Path="New_Home/New_Home.csproj" />
+  <Project Path="Number_Operation/Number_Operation.csproj" />
+  <Project Path="Summer_Outfit/Summer_Outfit.csproj" />
+</Solution>

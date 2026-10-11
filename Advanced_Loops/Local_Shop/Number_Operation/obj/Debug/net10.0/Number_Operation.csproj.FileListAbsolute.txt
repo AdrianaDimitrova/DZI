@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Local_Shop\Number_Operation\bin\Debug\net10.0\Number_Operation.exe
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Local_Shop\Number_Operation\bin\Debug\net10.0\Number_Operation.deps.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Local_Shop\Number_Operation\bin\Debug\net10.0\Number_Operation.runtimeconfig.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Local_Shop\Number_Operation\bin\Debug\net10.0\Number_Operation.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Local_Shop\Number_Operation\bin\Debug\net10.0\Number_Operation.pdb
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Local_Shop\Number_Operation\obj\Debug\net10.0\Number_Operation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Local_Shop\Number_Operation\obj\Debug\net10.0\Number_Operation.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Local_Shop\Number_Operation\obj\Debug\net10.0\Number_Operation.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Local_Shop\Number_Operation\obj\Debug\net10.0\Number_Operation.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Local_Shop\Number_Operation\obj\Debug\net10.0\Number_Operation.sourcelink.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Local_Shop\Number_Operation\obj\Debug\net10.0\Number_Operation.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Local_Shop\Number_Operation\obj\Debug\net10.0\refint\Number_Operation.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Local_Shop\Number_Operation\obj\Debug\net10.0\Number_Operation.pdb
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Local_Shop\Number_Operation\obj\Debug\net10.0\Number_Operation.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Local_Shop\Number_Operation\obj\Debug\net10.0\ref\Number_Operation.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Local_Shop\Number_Operation\obj\Debug\net10.0\Number_O.84F86CC0.Up2Date
