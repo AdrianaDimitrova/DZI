@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Tennis\bin\Debug\net10.0\Tennis.exe
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Tennis\bin\Debug\net10.0\Tennis.deps.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Tennis\bin\Debug\net10.0\Tennis.runtimeconfig.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Tennis\bin\Debug\net10.0\Tennis.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Tennis\bin\Debug\net10.0\Tennis.pdb
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Tennis\obj\Debug\net10.0\Tennis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Tennis\obj\Debug\net10.0\Tennis.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Tennis\obj\Debug\net10.0\Tennis.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Tennis\obj\Debug\net10.0\Tennis.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Tennis\obj\Debug\net10.0\Tennis.sourcelink.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Tennis\obj\Debug\net10.0\Tennis.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Tennis\obj\Debug\net10.0\refint\Tennis.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Tennis\obj\Debug\net10.0\Tennis.pdb
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Tennis\obj\Debug\net10.0\Tennis.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Tennis\obj\Debug\net10.0\ref\Tennis.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Tennis\obj\Debug\net10.0\Tennis.csproj.Up2Date

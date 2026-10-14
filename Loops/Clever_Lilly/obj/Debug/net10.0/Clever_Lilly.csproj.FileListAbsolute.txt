@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Clever_Lilly\bin\Debug\net10.0\Clever_Lilly.exe
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Clever_Lilly\bin\Debug\net10.0\Clever_Lilly.deps.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Clever_Lilly\bin\Debug\net10.0\Clever_Lilly.runtimeconfig.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Clever_Lilly\bin\Debug\net10.0\Clever_Lilly.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Clever_Lilly\bin\Debug\net10.0\Clever_Lilly.pdb
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Clever_Lilly\obj\Debug\net10.0\Clever_Lilly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Clever_Lilly\obj\Debug\net10.0\Clever_Lilly.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Clever_Lilly\obj\Debug\net10.0\Clever_Lilly.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Clever_Lilly\obj\Debug\net10.0\Clever_Lilly.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Clever_Lilly\obj\Debug\net10.0\Clever_Lilly.sourcelink.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Clever_Lilly\obj\Debug\net10.0\Clever_Lilly.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Clever_Lilly\obj\Debug\net10.0\refint\Clever_Lilly.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Clever_Lilly\obj\Debug\net10.0\Clever_Lilly.pdb
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Clever_Lilly\obj\Debug\net10.0\Clever_Lilly.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Clever_Lilly\obj\Debug\net10.0\ref\Clever_Lilly.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Clever_Lilly\obj\Debug\net10.0\Clever_L.996D0BB0.Up2Date

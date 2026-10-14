@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Even_Odd_Sum\bin\Debug\net10.0\Even_Odd_Sum.exe
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Even_Odd_Sum\bin\Debug\net10.0\Even_Odd_Sum.deps.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Even_Odd_Sum\bin\Debug\net10.0\Even_Odd_Sum.runtimeconfig.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Even_Odd_Sum\bin\Debug\net10.0\Even_Odd_Sum.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Even_Odd_Sum\bin\Debug\net10.0\Even_Odd_Sum.pdb
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Even_Odd_Sum\obj\Debug\net10.0\Even_Odd_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Even_Odd_Sum\obj\Debug\net10.0\Even_Odd_Sum.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Even_Odd_Sum\obj\Debug\net10.0\Even_Odd_Sum.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Even_Odd_Sum\obj\Debug\net10.0\Even_Odd_Sum.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Even_Odd_Sum\obj\Debug\net10.0\Even_Odd_Sum.sourcelink.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Even_Odd_Sum\obj\Debug\net10.0\Even_Odd_Sum.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Even_Odd_Sum\obj\Debug\net10.0\refint\Even_Odd_Sum.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Even_Odd_Sum\obj\Debug\net10.0\Even_Odd_Sum.pdb
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Even_Odd_Sum\obj\Debug\net10.0\Even_Odd_Sum.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Even_Odd_Sum\obj\Debug\net10.0\ref\Even_Odd_Sum.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Even_Odd_Sum\obj\Debug\net10.0\Even_Odd.80C64BBC.Up2Date

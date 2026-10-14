@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Vowels_Numbers\bin\Debug\net10.0\Vowels_Numbers.exe
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Vowels_Numbers\bin\Debug\net10.0\Vowels_Numbers.deps.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Vowels_Numbers\bin\Debug\net10.0\Vowels_Numbers.runtimeconfig.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Vowels_Numbers\bin\Debug\net10.0\Vowels_Numbers.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Vowels_Numbers\bin\Debug\net10.0\Vowels_Numbers.pdb
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Vowels_Numbers\obj\Debug\net10.0\Vowels_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Vowels_Numbers\obj\Debug\net10.0\Vowels_Numbers.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Vowels_Numbers\obj\Debug\net10.0\Vowels_Numbers.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Vowels_Numbers\obj\Debug\net10.0\Vowels_Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Vowels_Numbers\obj\Debug\net10.0\Vowels_Numbers.sourcelink.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Vowels_Numbers\obj\Debug\net10.0\Vowels_Numbers.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Vowels_Numbers\obj\Debug\net10.0\refint\Vowels_Numbers.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Vowels_Numbers\obj\Debug\net10.0\Vowels_Numbers.pdb
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Vowels_Numbers\obj\Debug\net10.0\Vowels_Numbers.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Vowels_Numbers\obj\Debug\net10.0\ref\Vowels_Numbers.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Vowels_Numbers\obj\Debug\net10.0\Vowels_N.597EE02A.Up2Date

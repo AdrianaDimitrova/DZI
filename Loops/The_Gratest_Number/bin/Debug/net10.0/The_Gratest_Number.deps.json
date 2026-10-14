@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "The_Gratest_Number/1.0.0": {
+        "runtime": {
+          "The_Gratest_Number.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "The_Gratest_Number/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

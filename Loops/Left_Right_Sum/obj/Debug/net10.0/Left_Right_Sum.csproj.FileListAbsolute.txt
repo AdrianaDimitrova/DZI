@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Left_Right_Sum\bin\Debug\net10.0\Left_Right_Sum.exe
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Left_Right_Sum\bin\Debug\net10.0\Left_Right_Sum.deps.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Left_Right_Sum\bin\Debug\net10.0\Left_Right_Sum.runtimeconfig.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Left_Right_Sum\bin\Debug\net10.0\Left_Right_Sum.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Left_Right_Sum\bin\Debug\net10.0\Left_Right_Sum.pdb
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Left_Right_Sum\obj\Debug\net10.0\Left_Right_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Left_Right_Sum\obj\Debug\net10.0\Left_Right_Sum.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Left_Right_Sum\obj\Debug\net10.0\Left_Right_Sum.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Left_Right_Sum\obj\Debug\net10.0\Left_Right_Sum.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Left_Right_Sum\obj\Debug\net10.0\Left_Right_Sum.sourcelink.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Left_Right_Sum\obj\Debug\net10.0\Left_Right_Sum.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Left_Right_Sum\obj\Debug\net10.0\refint\Left_Right_Sum.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Left_Right_Sum\obj\Debug\net10.0\Left_Right_Sum.pdb
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Left_Right_Sum\obj\Debug\net10.0\Left_Right_Sum.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Left_Right_Sum\obj\Debug\net10.0\ref\Left_Right_Sum.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Left_Right_Sum\obj\Debug\net10.0\Left_Rig.1A4FA219.Up2Date

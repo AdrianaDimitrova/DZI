@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Whole_Numbers\bin\Debug\net10.0\Whole_Numbers.exe
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Whole_Numbers\bin\Debug\net10.0\Whole_Numbers.deps.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Whole_Numbers\bin\Debug\net10.0\Whole_Numbers.runtimeconfig.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Whole_Numbers\bin\Debug\net10.0\Whole_Numbers.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Whole_Numbers\bin\Debug\net10.0\Whole_Numbers.pdb
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Whole_Numbers\obj\Debug\net10.0\Whole_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Whole_Numbers\obj\Debug\net10.0\Whole_Numbers.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Whole_Numbers\obj\Debug\net10.0\Whole_Numbers.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Whole_Numbers\obj\Debug\net10.0\Whole_Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Whole_Numbers\obj\Debug\net10.0\Whole_Numbers.sourcelink.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Whole_Numbers\obj\Debug\net10.0\Whole_Numbers.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Whole_Numbers\obj\Debug\net10.0\refint\Whole_Numbers.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Whole_Numbers\obj\Debug\net10.0\Whole_Numbers.pdb
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Whole_Numbers\obj\Debug\net10.0\Whole_Numbers.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Whole_Numbers\obj\Debug\net10.0\ref\Whole_Numbers.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Whole_Numbers\obj\Debug\net10.0\Whole_Nu.972B3572.Up2Date

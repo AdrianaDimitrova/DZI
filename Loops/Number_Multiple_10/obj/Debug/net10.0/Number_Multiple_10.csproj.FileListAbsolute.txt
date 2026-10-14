@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Number_Multiple_10\bin\Debug\net10.0\Number_Multiple_10.exe
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Number_Multiple_10\bin\Debug\net10.0\Number_Multiple_10.deps.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Number_Multiple_10\bin\Debug\net10.0\Number_Multiple_10.runtimeconfig.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Number_Multiple_10\bin\Debug\net10.0\Number_Multiple_10.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Number_Multiple_10\bin\Debug\net10.0\Number_Multiple_10.pdb
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Number_Multiple_10\obj\Debug\net10.0\Number_Multiple_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Number_Multiple_10\obj\Debug\net10.0\Number_Multiple_10.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Number_Multiple_10\obj\Debug\net10.0\Number_Multiple_10.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Number_Multiple_10\obj\Debug\net10.0\Number_Multiple_10.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Number_Multiple_10\obj\Debug\net10.0\Number_Multiple_10.sourcelink.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Number_Multiple_10\obj\Debug\net10.0\Number_Multiple_10.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Number_Multiple_10\obj\Debug\net10.0\refint\Number_Multiple_10.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Number_Multiple_10\obj\Debug\net10.0\Number_Multiple_10.pdb
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Number_Multiple_10\obj\Debug\net10.0\Number_Multiple_10.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Number_Multiple_10\obj\Debug\net10.0\ref\Number_Multiple_10.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Number_Multiple_10\obj\Debug\net10.0\Number_M.0321B013.Up2Date

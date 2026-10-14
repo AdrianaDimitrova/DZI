@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Clock\bin\Debug\net10.0\Clock.exe
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Clock\bin\Debug\net10.0\Clock.deps.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Clock\bin\Debug\net10.0\Clock.runtimeconfig.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Clock\bin\Debug\net10.0\Clock.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Clock\bin\Debug\net10.0\Clock.pdb
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Clock\obj\Debug\net10.0\Clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Clock\obj\Debug\net10.0\Clock.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Clock\obj\Debug\net10.0\Clock.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Clock\obj\Debug\net10.0\Clock.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Clock\obj\Debug\net10.0\Clock.sourcelink.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Clock\obj\Debug\net10.0\Clock.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Clock\obj\Debug\net10.0\refint\Clock.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Clock\obj\Debug\net10.0\Clock.pdb
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Clock\obj\Debug\net10.0\Clock.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Clock\obj\Debug\net10.0\ref\Clock.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Clock\obj\Debug\net10.0\Clock.csproj.Up2Date

@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\\u0414\u0417\u0418\\Loops\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{782FCA2C-4E3B-4653-B8A5-E597FECBB2CE}|Tennis\\Tennis.csproj|c:\\users\\lenovo\\desktop\\reponew\\\u0434\u0437\u0438\\loops\\tennis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{782FCA2C-4E3B-4653-B8A5-E597FECBB2CE}|Tennis\\Tennis.csproj|solutionrelative:tennis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81BC8340-06D2-40E6-ACB4-E57A9486A696}|Trekking\\Trekking.csproj|c:\\users\\lenovo\\desktop\\reponew\\\u0434\u0437\u0438\\loops\\trekking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81BC8340-06D2-40E6-ACB4-E57A9486A696}|Trekking\\Trekking.csproj|solutionrelative:trekking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A8F486-17D5-46C2-A2B0-245102B601C3}|Oscars\\Oscars.csproj|c:\\users\\lenovo\\desktop\\reponew\\\u0434\u0437\u0438\\loops\\oscars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A8F486-17D5-46C2-A2B0-245102B601C3}|Oscars\\Oscars.csproj|solutionrelative:oscars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FF988A-DF68-469C-8832-2E409B00910D}|Salary\\Salary.csproj|c:\\users\\lenovo\\desktop\\reponew\\\u0434\u0437\u0438\\loops\\salary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FF988A-DF68-469C-8832-2E409B00910D}|Salary\\Salary.csproj|solutionrelative:salary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84EB711B-F978-40FC-90DA-5CCF62076D2B}|Clever_Lilly\\Clever_Lilly.csproj|c:\\users\\lenovo\\desktop\\reponew\\\u0434\u0437\u0438\\loops\\clever_lilly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84EB711B-F978-40FC-90DA-5CCF62076D2B}|Clever_Lilly\\Clever_Lilly.csproj|solutionrelative:clever_lilly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49523CE3-1BE1-4934-B80B-15D568494C24}|Histogram\\Histogram.csproj|c:\\users\\lenovo\\desktop\\reponew\\\u0434\u0437\u0438\\loops\\histogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49523CE3-1BE1-4934-B80B-15D568494C24}|Histogram\\Histogram.csproj|solutionrelative:histogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A061D7-BE74-40C9-8CF8-24D3DD0177E7}|Element_Equal_Sum\\Element_Equal_Sum.csproj|c:\\users\\lenovo\\desktop\\reponew\\\u0434\u0437\u0438\\loops\\element_equal_sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0A061D7-BE74-40C9-8CF8-24D3DD0177E7}|Element_Equal_Sum\\Element_Equal_Sum.csproj|solutionrelative:element_equal_sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\\u0414\u0417\u0418\\Loops\\Tennis\\Program.cs",
+              "RelativeDocumentMoniker": "Tennis\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\\u0414\u0417\u0418\\Loops\\Tennis\\Program.cs",
+              "RelativeToolTip": "Tennis\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T18:17:05.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\\u0414\u0417\u0418\\Loops\\Trekking\\Program.cs",
+              "RelativeDocumentMoniker": "Trekking\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\\u0414\u0417\u0418\\Loops\\Trekking\\Program.cs",
+              "RelativeToolTip": "Trekking\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T14:58:20.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\\u0414\u0417\u0418\\Loops\\Oscars\\Program.cs",
+              "RelativeDocumentMoniker": "Oscars\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\\u0414\u0417\u0418\\Loops\\Oscars\\Program.cs",
+              "RelativeToolTip": "Oscars\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T14:22:22.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\\u0414\u0417\u0418\\Loops\\Salary\\Program.cs",
+              "RelativeDocumentMoniker": "Salary\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\\u0414\u0417\u0418\\Loops\\Salary\\Program.cs",
+              "RelativeToolTip": "Salary\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T13:55:43.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\\u0414\u0417\u0418\\Loops\\Clever_Lilly\\Program.cs",
+              "RelativeDocumentMoniker": "Clever_Lilly\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\\u0414\u0417\u0418\\Loops\\Clever_Lilly\\Program.cs",
+              "RelativeToolTip": "Clever_Lilly\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T13:13:12.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\\u0414\u0417\u0418\\Loops\\Histogram\\Program.cs",
+              "RelativeDocumentMoniker": "Histogram\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\\u0414\u0417\u0418\\Loops\\Histogram\\Program.cs",
+              "RelativeToolTip": "Histogram\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T12:53:44.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\\u0414\u0417\u0418\\Loops\\Element_Equal_Sum\\Program.cs",
+              "RelativeDocumentMoniker": "Element_Equal_Sum\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\\u0414\u0417\u0418\\Loops\\Element_Equal_Sum\\Program.cs",
+              "RelativeToolTip": "Element_Equal_Sum\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwB0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T12:45:32.316Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

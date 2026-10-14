@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Histogram\bin\Debug\net10.0\Histogram.exe
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Histogram\bin\Debug\net10.0\Histogram.deps.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Histogram\bin\Debug\net10.0\Histogram.runtimeconfig.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Histogram\bin\Debug\net10.0\Histogram.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Histogram\bin\Debug\net10.0\Histogram.pdb
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Histogram\obj\Debug\net10.0\Histogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Histogram\obj\Debug\net10.0\Histogram.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Histogram\obj\Debug\net10.0\Histogram.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Histogram\obj\Debug\net10.0\Histogram.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Histogram\obj\Debug\net10.0\Histogram.sourcelink.json
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Histogram\obj\Debug\net10.0\Histogram.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Histogram\obj\Debug\net10.0\refint\Histogram.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Histogram\obj\Debug\net10.0\Histogram.pdb
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Histogram\obj\Debug\net10.0\Histogram.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Histogram\obj\Debug\net10.0\ref\Histogram.dll
+C:\Users\Lenovo\Desktop\RepoNew\ДЗИ\Loops\Histogram\obj\Debug\net10.0\Histogram.csproj.Up2Date
